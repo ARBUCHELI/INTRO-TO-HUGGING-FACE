@@ -31,3 +31,63 @@ Question: how might the Hugging Face Hub help you get started exploring the ML s
 	. Another option is to check out the Hugging Face tasks page, to get a more in-depth intro to common ML/AI tasks.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Spaces
+--------
+Learn about Hugging Face Hub’s Spaces feature for easily building and hosting ML demo apps.
+
+Key ideas:
+
+	. Spaces is a feature on Hugging Face Hub for building and hosting ML demo apps.
+
+	. Using Spaces allows an ML developer to quickly create a demo app with a user interface for interacting with a model.
+
+	. Building a demo on Spaces requires only a few lines of code using Python packages like Gradio and Streamlit.
+
+	. Note that while basic Spaces are free, more advanced Spaces (like those requiring GPUs) may require a paid upgrade.
+
+* Instructions
+--------------
+Think about the following question as you watch the video. When you are ready to move on, select Next.
+
+Question: what are the advantages to using Spaces as an ML developer?
+---------
+
+* See our answer
+----------------
+While building and hosting an app from scratch gives developers more flexibility, using Spaces lets ML developers quickly build user interfaces to demo their models without worrying about 
+all the technical details. Spaces is also a community of ML developers, which can help a demo get noticed by other devs!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
