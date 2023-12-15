@@ -60,6 +60,33 @@ all the technical details. Spaces is also a community of ML developers, which ca
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Ethics, Documentation, and Learning
+-------------------------------------
+Learn about additional features and resources available on Hugging Face Hub.
+
+Key ideas:
+
+	. Hugging Face has events, community, and educational materials dedicated to ethical evaluation of AI models and apps.
+
+	. Hugging Face libraries go beyond Transformers and Diffusers, including PEFT and Accelerate libraries.
+
+	. Documentation and courses are available for those who want to learn more about NLP and other concepts.
+
+* Instructions
+--------------
+Think about the following question as you watch the video. When you are ready to move on, select Next.
+
+Question: why is ethics a key area for an ML/AI community?
+---------
+
+* See our answer
+----------------
+AI models can be extremely effective at their specific tasks. But even when they are good at what they do, they impact the world around us in any number of ways. These include physical 
+impacts, like their use of energy contributing to climate change, and human impacts, like AI models trained on biased datasets making decisions that harm human beings. Any time we are 
+deploying autonomous systems that can impact the world, we are responsible for making sure they are developed and behave ethically.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
