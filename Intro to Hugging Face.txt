@@ -1,0 +1,33 @@
+# INTRO TO HUGGING FACE
+-----------------------
+
+* Repositories
+--------------
+Learn about how to find pre-trained models and datasets on the Hugging Face hub for machine learning tasks.
+
+Key ideas:
+
+	. The Hugging Face hub is a platform for sharing pre-trained models and datasets for machine learning tasks.
+
+	. Users can search for models and datasets by task or keyword and sort them by popularity, trending, or recent updates.
+
+	. Each model or dataset page on the Hugging Face Hub contains important information (like training methods or limitations), community interaction features, and tools for importing 
+	in your own code.
+
+	. Hugging Face’s tasks page contains crash-course information on common ML/AI tasks such as image classification.
+
+* Instructions
+--------------
+Think about the following question as you watch the video. When you are ready to move on, select Next.
+
+Question: how might the Hugging Face Hub help you get started exploring the ML space?
+---------
+
+* See our answer
+----------------
+	. One option would be to browse the Hugging Face hub, looking at the different models and datasets available to see if something sparks an idea about something you might want to 
+	build.
+
+	. Another option is to check out the Hugging Face tasks page, to get a more in-depth intro to common ML/AI tasks.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
